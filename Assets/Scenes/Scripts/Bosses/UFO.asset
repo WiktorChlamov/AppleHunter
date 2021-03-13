@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 602deffe4f76345478cfb3a4ce0fbabc, type: 3}
+  m_Name: UFO
+  m_EditorClassIdentifier: 
+  boss: {fileID: 8367285862300463559, guid: 5c09a590389540f4cadb079412653c50, type: 3}
+  startingKnifes: 3
+  wheelSpeed: 1
+  typeOfBoss: 2

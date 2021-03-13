@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c317827214a71e498823b0a4fe00fdd, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: 
+  knifeName: 502
+  knifeSprite: {fileID: 21300000, guid: 99d7df656043a7645916bea7b67b5116, type: 3}
+  knifePerk: 6
+  perkLevel: 1
+  perkCost: 50
+  cost: 3
+  id: 17dca3a0-e365-45cc-bf9f-96d38e405dfa
+  knifeRare: 0

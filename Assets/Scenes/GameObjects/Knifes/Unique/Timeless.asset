@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c317827214a71e498823b0a4fe00fdd, type: 3}
+  m_Name: Timeless
+  m_EditorClassIdentifier: 
+  knifeName: 510
+  knifeSprite: {fileID: 21300000, guid: 435c4a963b503f54ca8cde8353d4657b, type: 3}
+  knifePerk: 10
+  perkLevel: 2
+  perkCost: 20
+  cost: 4
+  id: 7e40fa45-fac3-4db4-81b7-9f646633bba6
+  knifeRare: 2

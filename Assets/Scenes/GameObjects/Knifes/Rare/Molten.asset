@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c317827214a71e498823b0a4fe00fdd, type: 3}
+  m_Name: Molten
+  m_EditorClassIdentifier: 
+  knifeName: 505
+  knifeSprite: {fileID: 21300000, guid: 0b2175f659f606549bf76e70179840f2, type: 3}
+  knifePerk: 1
+  perkLevel: 3
+  perkCost: 250
+  cost: 1
+  id: 3e8b9133-c811-4673-b0e1-a322d480eba1
+  knifeRare: 1

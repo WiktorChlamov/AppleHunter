@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c317827214a71e498823b0a4fe00fdd, type: 3}
+  m_Name: Slim
+  m_EditorClassIdentifier: 
+  knifeName: 506
+  knifeSprite: {fileID: 21300000, guid: 18344718b1756bc47acb21bf63d73ec8, type: 3}
+  knifePerk: 5
+  perkLevel: 2
+  perkCost: 200
+  cost: 1
+  id: 9d1f55c8-5316-4e6a-8412-2d58ebba7328
+  knifeRare: 1
